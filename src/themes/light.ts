@@ -13,7 +13,7 @@ export default {
     text1: "#333333",
     text2: "#808080",
     border: "#808080",
-    body: "#D9D9D9",
+    body: "#C3c3c3",
     danger: "#E25858",
     //
   },
