@@ -52,12 +52,6 @@ Além das funcionalidades pedidas no desafio, adicionei outras extras para desen
 
 ---
 
-## Preview
-
-<h1 align="center">
-   <img src="/github/projeto.gif" alt="App todo telas" />
-</h1>
-
 <!--Layout session-->
 
 ## 🎨 Layout
