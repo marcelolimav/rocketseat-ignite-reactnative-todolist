@@ -8,7 +8,6 @@ export default {
     header: "#0D0D0D",
     title1: "#4EA8DE",
     title2: "#8284FA",
-    //
     inputBg: "#262626",
     text1: "#F2F2F2",
     text2: "#808080",

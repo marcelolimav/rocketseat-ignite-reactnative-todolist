@@ -8,4 +8,7 @@
       "./src/themes/styled.d.ts",
     ]
   },
+  "files": [
+    "./src/themes/styled.d.ts",
+  ]
 }
