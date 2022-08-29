@@ -49,7 +49,6 @@ Além das funcionalidades pedidas no desafio, adicionei outras extras para desen
 - [x] Exibir alerta pedindo confirmação ao remover uma tarefa (extra);
 - [x] Tema light e dark (extra);
 - [x] Guardar a lista de tarefas do AsyncStorage (extra);
-- [x] teste
 
 ---
 
