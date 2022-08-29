@@ -62,7 +62,7 @@ Além das funcionalidades pedidas no desafio, adicionei outras extras para desen
 
 ## 🎨 Layout
 
-![alt text]([https://github.com/marcelolimav/rocketseat-ignite-reactnative-todolist/commit/89b413b8da984ef1ca413414f6ed6e415f9e704c](https://raw.githubusercontent.com/marcelolimav/rocketseat-ignite-reactnative-todolist/main/f28a1fc1-a8f5-4057-8965-874bee00d1a7.png))
+![alt text](https://github.com/marcelolimav/rocketseat-ignite-reactnative-todolist/blob/main/f28a1fc1-a8f5-4057-8965-874bee00d1a7.png?raw=true)
 
 <!--Running session-->
 
