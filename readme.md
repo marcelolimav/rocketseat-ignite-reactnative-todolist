@@ -50,8 +50,6 @@ Além das funcionalidades pedidas no desafio, adicionei outras extras para desen
 - [x] Tema light e dark (extra);
 - [x] Guardar a lista de tarefas do AsyncStorage (extra);
 
----
-
 <!--Layout session-->
 
 ## 🎨 Layout
