@@ -46,7 +46,7 @@ export function Home({ themeDark, isThemeDark, list }: Props) {
   }
 
   function handleRemoveToDo(id: string) {
-    Alert.alert("Remover toDo", "Confirma a remoção deste toDo?", [
+    Alert.alert("Remover tarefa", "Confirma a remoção desta tarefa?", [
       {
         text: "Não",
         style: "cancel",
